@@ -4,7 +4,7 @@ const db = require('./db/db.json');
 const app = express();
 const path = require('path');
 
-const PORT = 'https://bryans-note-taker.herokuapp.com/';
+const PORT = process.env.PORT || 3001;
 
 app.use(express.json())
 app.use(express.urlencoded({ extended: true }));
