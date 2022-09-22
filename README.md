@@ -12,8 +12,10 @@ You can select the saved notes from the left side if you would like to view them
 
 ## Mock-up
 
-![Readme Gen mockup](-.png)
+![Readme Gen mockup](./public/note-taker-mockup.png)
 
 ## Links
 
-Github repository link: 
+Github repository link: https://github.com/BryanBorek/11-Note-Taker
+
+Heroku site URL: https://bryans-note-taker.herokuapp.com/
